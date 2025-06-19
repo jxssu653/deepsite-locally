@@ -1,4 +1,6 @@
-@import "tailwindcss";
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@3.4.0/base.min.css";
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@3.4.0/components.min.css";
+@import "https://cdn.jsdelivr.net/npm/tailwindcss@3.4.0/utilities.min.css";
 
 * {
   font-family: "Noto Sans";
